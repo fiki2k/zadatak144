@@ -12,7 +12,7 @@ int main()
     scanf("%d",&a);
     printf("\nUnesi b : ");
     scanf("%d",&b);
-    printf("\nUnesi c: ");
+    printf("\nUnesi c : ");
     scanf("%d",&c);
 
     printf("\nVrijednosti prije zamjene: \n");
